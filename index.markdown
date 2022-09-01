@@ -10,9 +10,9 @@ layout: home
 MoveFuns DAO is a DAO for Move developers, with the main goal of uniting the developer community to build a across multiple Move chains ecosystem.
 
 * [wiki](https://movefuns.atlassian.net/wiki/spaces/MOVEFUNS/overview): Join and Cooperate for Move influence and events.  
-* [movefuns](https://github.com/movefuns/movefuns): The Move commons library for support multiple Move chains.
+* [movefuns](https://github.com/movefuns/movefuns): The Move commons library for supporting multiple Move chains.
 * [web3startrek](https://github.com/movefuns/web3startrek): LearnToEarn for Move and Web3 learner.
-* [apps](https://github.com/movefuns/apps): A collection of Move echosystem DApp tools.
+* [apps](https://github.com/movefuns/apps): A collection of Move ecosystem DApp tools.
 
 ## Roadmap
 
